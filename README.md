@@ -1,1 +1,3 @@
 # jsGame
+
+javascript game repository
